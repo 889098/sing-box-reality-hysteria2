@@ -1,4 +1,5 @@
 #!/bin/bash
+export ENABLE_DEPRECATED_SPECIAL_OUTBOUNDS=true
 
 # Function to print characters with delay
 print_with_delay() {
